@@ -36,8 +36,15 @@ A Full Stack Web & Mobile Developer 💻!
 
  - [Karachi Bus Route Locator](https://play.google.com/store/apps/details?id=com.kbrl.mapapp)
 
-### Contact Me @:
- - mnomanmemon@outlook.com
+### Stats:
+[![mnomanmemon's GitHub | Stats](https://stats.quine.sh/mnomanmemon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
+[![mnomanmemon's Stack Overflow | Stats](https://stats.quine.sh/mnomanmemon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
+
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mnomanmemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnomanmemon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3276511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3276511" height="30" width="40" /></a>
+</p>
 
 <!--
 **mnomanmemon/mnomanmemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
