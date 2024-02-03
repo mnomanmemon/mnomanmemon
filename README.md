@@ -6,6 +6,8 @@ Hi there, I'm Muhammad Noman 👋
 A Full Stack Web & Mobile Developer 💻!
 </h2> 
 
+<img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+
 ### My Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,6 +41,7 @@ A Full Stack Web & Mobile Developer 💻!
 ### Stats:
 [![mnomanmemon's GitHub | Stats](https://stats.quine.sh/mnomanmemon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
 [![mnomanmemon's Stack Overflow | Stats](https://stats.quine.sh/mnomanmemon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
+[![@mnomanmemon's Holopin board](https://holopin.me/mnomanmemon)](https://holopin.io/@mnomanmemon)
 
 ### Connect with me:
 <p align="left">
