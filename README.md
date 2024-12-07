@@ -6,6 +6,10 @@ Hi there, I'm Muhammad Noman 👋
 A Full Stack Web & Mobile Developer 💻!
 </h2> 
 
+<h4 align="center">
+ <img src="https://komarev.com/ghpvc/?username=mnomanmemon&&style=flat-square" align="center" />
+</h4>  
+
 <img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ### My Tech Stack:
@@ -41,13 +45,34 @@ A Full Stack Web & Mobile Developer 💻!
 ### Stats:
 [![mnomanmemon's GitHub | Stats](https://stats.quine.sh/mnomanmemon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
 [![mnomanmemon's Stack Overflow | Stats](https://stats.quine.sh/mnomanmemon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mnomanmemon)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah660&theme=dark" alt="GitHub Streak" height="200" />
+
+### Holopin Board:
+
 [![@mnomanmemon's Holopin board](https://holopin.me/mnomanmemon)](https://holopin.io/@mnomanmemon)
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mnomanmemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnomanmemon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3276511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3276511" height="30" width="40" /></a>
-</p>
+## Let's Get Connected!
+
+<div align="center">
+  <a href="https://imnoman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23404d59.svg?style=for-the-badge&logo=view&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mnomanmemon/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <!--<a href="https://www.instagram.com/mnomanmemon/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>-->
+  <a href="https://www.youtube.com/@mnomanmemon" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+  </a>
+  <!--<a href="https://topmate.io/mnomanmemon" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-%233C74B1.svg?&style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" style="margin-bottom: 5px;" />
+  </a>-->
+  <a href="mailto:mnomanmemon@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <!--
 **mnomanmemon/mnomanmemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
